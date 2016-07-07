@@ -8,9 +8,9 @@ gems: [jekyll-gist,jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Harvard's trove 
-tagline:          'nothing'
-description:      'Harvard's broke.'
+title:            "Harvard's trove" 
+tagline:          "nothing"
+description:      "Harvard's broke."
 url:              http://digitalframeworks.github.io
 baseurl:          /
 
