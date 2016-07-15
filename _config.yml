@@ -8,15 +8,15 @@ gems: [jekyll-gist,jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            "Harvard's trove" 
-tagline:          "nothing"
-description:      "Harvard's broke."
+title:            "The great unravelling" 
+tagline:          "China's economic and financial challenges"
+description:      "China's economic and financial challenges"
 url:              http://digitalframeworks.github.io
 baseurl:          /
 
 author:
-  name:           'David Eads'
-  url:            https://twitter.com/eads
+  name:           'Harvard Zhang'
+  url:            https://twitter.com/harvardzhang
 
 paginate:         15
 
